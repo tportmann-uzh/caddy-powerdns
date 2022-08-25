@@ -1,8 +1,8 @@
-module github.com/caddy-dns/template
+module github.com/hostpoint-ag/caddy-powerdns
 
 go 1.16
 
 require (
-	github.com/caddyserver/caddy/v2 v2.4.1
-	github.com/libdns/powerdns v0.1.1
+	github.com/caddyserver/caddy/v2 v2.5.2
+	github.com/hostpoint-ag/libdns-powerdns v0.0.1
 )
