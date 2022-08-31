@@ -6,7 +6,7 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/hostpoint-ag/libdns-powerdns"
+	"github.com/tportmann-uzh/libdns-powerdns"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
